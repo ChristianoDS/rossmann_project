@@ -31,7 +31,7 @@ Atualmente, os gerentes das lojas da Rossmann têm a tarefa de prever suas venda
 O CEO da Rossmann planeja realizar um investimento para reformas nas suas lojas e para isso, necessita de um orçamento prévio de quanto suas 1115 lojas irão faturar durante as 6 próximas semanas do ano. Caracterizando um problema de predição.
 
 # 4. Coleta dos dados
-Os dados de origem pública foram coletados atrás da plataforma Kaggle (https://www.kaggle.com/c/rossmann-store-sales/data).
+Os dados de origem pública foram coletados através da plataforma Kaggle (https://www.kaggle.com/c/rossmann-store-sales/data).
 
 Arquivos coletados:
 - train.csv: dados históricos incluindo vendas.
@@ -95,6 +95,21 @@ Aplicando todo o primeiro ciclo do CRISP, chegou-se a conclusão de que para as 
 
 # 10.0 Modelo em produção
 Para deixar o projeto acessível para qualquer pessoa, foram criadas API's para fazer o deploy num aplicativo de celular, como o Telegram. Procurando no telegram por rossmannproject_bot, vc pode entrar na conversa com o bot criado para o deploy desse projeto, e solicitar infomação da loja desejada para saber seu faturamento nas próximas 6 semanas.
+
+![image](https://github.com/ChristianoDS/rossmann_project/assets/103225340/af352d24-44b8-49ad-96da-d19c4de0f287)
+
+# 11.0 Ferramentas utilizadas
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- ![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+- ![XGBoost](https://img.shields.io/badge/XGBoost-016B8E?style=for-the-badge&logo=xgboost&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+- ![requests](https://img.shields.io/badge/requests-FF6F00?style=for-the-badge&logo=requests&logoColor=white)
+
+
 
 
 
