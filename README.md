@@ -59,7 +59,7 @@ Nessa etapa, para melhor entendimento da distribuição das variáveis, foi apli
 ![image](https://github.com/ChristianoDS/rossmann_project/assets/103225340/664cdbb8-c1ec-49a3-b337-c121e37cd26a)
 
 ## 6.3 Análise Bivariada - Validação das hipóteses
-Nessa etapa, por veio da análise bivariada (variável explicativa x variável resposta) foram respondidas as hipóteses de negócios criadas com o mapa mental de hipóteses. Ainda nessa etapa foram gerados alguns dos principais insights de negócio.
+Nessa etapa, por meio da análise bivariada (variável explicativa x variável resposta) foram respondidas as hipóteses de negócios criadas com o mapa mental de hipóteses. Ainda nessa etapa foram gerados alguns dos principais insights de negócio.
 
 ### 6.3.1 Principais insights da análise bivariada
 - Lojas com maior sortimentos, vendem MENOS
