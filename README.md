@@ -32,10 +32,17 @@ O CEO da Rossmann planeja realizar um investimento para reformas nas suas lojas 
 
 # 4. Coleta dos dados
 Os dados de origem pública foram coletados atrás da plataforma Kaggle (https://www.kaggle.com/c/rossmann-store-sales/data).
+
 Arquivos coletados:
 - train.csv: dados históricos incluindo vendas.
 - test.csv: dados históricos excluindo vendas.
 - sample_submission.csv: um arquivo de submissão de exemplo no formato correto.
 - store.csv: informações complementares sobre as lojas.
+
+# 5. Limpeza dos dados
+Nessa etapa, depois de coletados os dados e carregados na IDE VSCode, foi aplicada uma limpeza dos dados. Aqui as colunas foram renomeadas em snake case, também foram checados e preenchidos com base no negócio os valores nulos e ausentes, em adição foram convertidos os dados de formato date, e alguns dados para o formato de inteiros. Aqui nessa etapa ainda foram aplicadas estatística descritiva para os dados numéricos e categóricos.
+
+# 6. Análise Exploratória dos Dados - EDA
+## 6.1 Feature engineering
 
 
