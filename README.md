@@ -112,6 +112,7 @@ Para melhor compreensão do case, são sugeridos melhorias no mesmo:
 - Realizar mais ciclos do método CRISP
 - Criar/derivar novas variáveis durante a EDA
 - Testar outros modelos de ML, como o RANSAC
+- Melhorar a precisão do modelo
 
 # 13.0 Ferramentas utilizadas
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
