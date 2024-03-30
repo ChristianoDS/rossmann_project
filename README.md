@@ -92,15 +92,28 @@ As métricas de desempenho do modelo foram RMSE, MAE e MAPE. O modelo mais promi
 
 ## 9.1 Tradução do modelo para o resultado de negócio
 Aplicando todo o primeiro ciclo do CRISP, chegou-se a conclusão de que para as próximas 6 semanas, as 1115 lojas da Rossmann irão faturar aproximadamente $290 milhões, com um erro de 12.4% aproximado.
+Também foram projetados os melhores/piores cenários de faturamento
+
+![image](https://github.com/ChristianoDS/rossmann_project/assets/103225340/951c10a5-4273-4c1c-a098-8074fb645bb8)
+
 
 # 10.0 Modelo em produção
-Para deixar o projeto acessível para qualquer pessoa, foram criadas API's para fazer o deploy num aplicativo de celular, como o Telegram. Procurando no telegram por rossmannproject_bot, você pode entrar na conversa com o bot criado para o deploy desse projeto, e solicitar infomação da loja desejada para saber seu faturamento nas próximas 6 semanas.
+Para deixar o projeto acessível para qualquer pessoa, foram criadas API's para fazer o deploy num aplicativo de celular, como o Telegram. Procurando no telegram por rossmannproject_bot, você pode entrar na conversa com o bot criado para o deploy desse projeto, e solicitar informação da loja desejada para saber seu faturamento nas próximas 6 semanas.
 
 Exemplo: Caso queria saber o faturamento nas 6 próximas semanas para a loja 21, é só digitar "/21", que a mágica acontece.
 
 ![image](https://github.com/ChristianoDS/rossmann_project/assets/103225340/af352d24-44b8-49ad-96da-d19c4de0f287)
 
-# 11.0 Ferramentas utilizadas
+# 11.0 Conclusão
+Aplicando o método CRISP para esse projeto, chegou-se a conclusão de que para as próximas 6 semanas, as 1115 lojas da Rossmann irão faturar aproximadamente $290 milhões, com um erro de 12.4% aproximado.
+
+# 12.0 Próximos passos
+Para melhor compreensão do case, são sugeridos melhorias no mesmo:
+- Realizar mais ciclos do método CRISP
+- Criar/derivar novas variáveis durante a EDA
+- Testar outros modelos de ML, como o RANSAC
+
+# 13.0 Ferramentas utilizadas
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
