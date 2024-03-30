@@ -28,5 +28,6 @@ A Rossmann é uma rede de drogarias com origem alemã. Com mais de 3.000 lojas e
 Atualmente, os gerentes das lojas da Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. As vendas das lojas são influenciadas por muitos fatores, incluindo promoções, concorrência, feriados escolares e estaduais, sazonalidade e localização. Com milhares de gerentes individuais prevendo vendas com base em suas circunstâncias únicas, a precisão dos resultados pode variar bastante
 
 # 3. Entendimento do Negócio
-## 3.1 Motivação
+
+O CEO da Rossmann planeja realizar um investimento para reformas nas suas lojas e para isso, nece
 
