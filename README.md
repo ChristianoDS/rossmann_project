@@ -43,6 +43,14 @@ Arquivos coletados:
 Nessa etapa, depois de coletados os dados e carregados na IDE VSCode, foi aplicada uma limpeza dos dados. Aqui as colunas foram renomeadas em snake case, também foram checados e preenchidos com base no negócio os valores nulos e ausentes, em adição foram convertidos os dados de formato date, e alguns dados para o formato de inteiros. Aqui nessa etapa ainda foram aplicadas estatística descritiva para os dados numéricos e categóricos.
 
 # 6. Análise Exploratória dos Dados - EDA
+A EDA tem como principais objetivos a criação ou derivação de novas varáveis, além da criação e validação de hipóteses de negócio e também ajuda a ter sensibilidade de quais variáveis impactam a variável resposta (vendas).
 ## 6.1 Feature engineering
+Nessa etapa são derivadas novas variáveis a partir de variáveis temporais. Como semanas do ano, dia, mes e ano, etc.
+### 6.1.1 Mapa mental de hipóteses
+Nessa etapa é avaliado o fenômeno a ser modelado, os agentes que atuam sobre o fenômeno de interesse (vendas) e criadas as hipóteses. Para a criação das hipóteses de negócios, foi criado um mapa mental de hipóteses.
+
+![image](https://github.com/ChristianoDS/rossmann_project/assets/103225340/e2ee3a51-1832-465e-b39c-816b2e78bf0e)
+
+
 
 
