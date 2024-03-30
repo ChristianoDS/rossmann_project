@@ -95,6 +95,7 @@ Aplicando todo o primeiro ciclo do CRISP, chegou-se a conclusão de que para as 
 
 # 10.0 Modelo em produção
 Para deixar o projeto acessível para qualquer pessoa, foram criadas API's para fazer o deploy num aplicativo de celular, como o Telegram. Procurando no telegram por rossmannproject_bot, você pode entrar na conversa com o bot criado para o deploy desse projeto, e solicitar infomação da loja desejada para saber seu faturamento nas próximas 6 semanas.
+Exemplo: Caso queria saber o faturamento nas 6 próximas semanas para a loja 21, é só digitar "/21", que a mágica acontece.
 
 ![image](https://github.com/ChristianoDS/rossmann_project/assets/103225340/af352d24-44b8-49ad-96da-d19c4de0f287)
 
