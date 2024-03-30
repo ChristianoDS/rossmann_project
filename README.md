@@ -94,7 +94,7 @@ As métricas de desempenho do modelo foram RMSE, MAE e MAPE. O modelo mais promi
 Aplicando todo o primeiro ciclo do CRISP, chegou-se a conclusão de que para as próximas 6 semanas, as 1115 lojas da Rossmann irão faturar aproximadamente $290 milhões, com um erro de 12.4% aproximado.
 
 # 10.0 Modelo em produção
-Para deixar o projeto acessível para qualquer pessoa, foram criadas API's para fazer o deploy num aplicativo de celular, como o Telegram. Procurando no telegram por rossmannproject_bot, vc pode entrar na conversa com o bot criado para o deploy desse projeto, e solicitar infomação da loja desejada para saber seu faturamento nas próximas 6 semanas.
+Para deixar o projeto acessível para qualquer pessoa, foram criadas API's para fazer o deploy num aplicativo de celular, como o Telegram. Procurando no telegram por rossmannproject_bot, você pode entrar na conversa com o bot criado para o deploy desse projeto, e solicitar infomação da loja desejada para saber seu faturamento nas próximas 6 semanas.
 
 ![image](https://github.com/ChristianoDS/rossmann_project/assets/103225340/af352d24-44b8-49ad-96da-d19c4de0f287)
 
