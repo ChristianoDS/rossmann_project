@@ -78,7 +78,7 @@ Por meio da análise multivariada pode-se ter uma noção de quais variáveis s�
 Nessa etapa os dados são preparados para o modelo de Machine Learning, sendo transformados, seja por meio de encoding (transformação de variáveis categóricas em numéricas), por meio de rescaling (deixando algumas variáveis na mesma escala, eliminando desproporcionalidades para o modelo de Machine Learning) ou normalizados (desejável que a variável alvo tenha uma distribuição normal).
 
 ## 7.1 Seleção de features
-Durante essa etapa do CRISP, são aplicados processos, como a divisão dos dados a serem analisados (não considerando as 6 últimas semanas), além da aplicação do selecionados de variáveis adotado nesse projeto (Boruta). O Boruta traz as variáveis mais relevantes para a previsão das vendas. Essas variáveis selecionadas irão para o Modelo de Machine Learning do XGBoost.
+Durante essa etapa do CRISP, são aplicados processos, como a divisão dos dados a serem analisados (não considerando as 6 últimas semanas), além da aplicação do selecionador de variáveis adotado nesse projeto (Boruta). O Boruta traz as variáveis mais relevantes para a previsão das vendas. Essas variáveis selecionadas irão para o Modelo de Machine Learning do XGBoost.
 ![image](https://github.com/ChristianoDS/rossmann_project/assets/103225340/93c255f9-ba57-4e71-8642-ba7fd57a2f14)
 
 # 8.0 Aplicação de algoritmos de Machine Learning
